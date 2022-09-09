@@ -1,0 +1,33 @@
+header {
+  height: 800px;
+  background-color: var(--purple-light);
+  padding: 55px 20px 0px;
+}
+
+h1 {
+  font-family: 'Merriweather', serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 3.2rem;
+  line-height: 4.7rem;
+  color: var(--gray-dark);
+  max-width: 310px;
+}
+
+.site-description {
+  font-family: 'Lato', serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.8rem;
+  line-height: 3.2rem;
+  color: var(--gray);
+  margin-top: 18px;
+  margin-bottom: 32px;
+  max-width: 360px;
+}
+
+img {
+  margin-top: 114px;
+  max-width: 500px;
+  width: 100%;
+}
