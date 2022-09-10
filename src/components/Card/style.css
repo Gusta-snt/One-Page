@@ -1,0 +1,32 @@
+.card {
+  width: 375px;
+  height: 423px;
+}
+
+.card .color {
+  width: 375px;
+  height: 222px;
+  background-color: #FF6363;
+}
+
+.card .title {
+  margin: 24px 0px 26px 33px;
+  width: 170px;
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 2.4rem;
+  line-height: 3rem;
+  color: var(--gray-dark);
+}
+
+.card .description {
+  margin: 0px 31px 0px 33px;
+  width: 311px;
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.8rem;
+  line-height: 3rem;
+  color: var(--gray);
+}
