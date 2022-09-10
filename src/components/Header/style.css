@@ -1,7 +1,7 @@
 header {
-  height: 800px;
+  min-height: 800px;
   background-color: var(--purple-light);
-  padding: 55px 20px 0px;
+  padding: 55px 20px 80px;
 }
 
 h1 {

@@ -1,0 +1,10 @@
+main {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+  width: 100%;
+  padding-top: 75px;
+  padding-bottom: 30px;
+  background-color: var(--white-200);
+}

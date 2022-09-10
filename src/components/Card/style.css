@@ -1,6 +1,7 @@
 .card {
   width: 375px;
   height: 423px;
+  background-color: white;
 }
 
 .card .color {
