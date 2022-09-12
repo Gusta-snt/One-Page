@@ -1,7 +1,7 @@
 import './style.css'
 
-function Button(param){
-  return <button className="button">{param.text}</button>
+function Button(params){
+  return <button id={params.id || ""} className="button" type={params.type || "button"}>{params.text}</button>
 }
 
 export default Button
